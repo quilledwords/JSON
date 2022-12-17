@@ -1,1 +1,22 @@
-
+[
+{
+     "name": "Wallpaper 02",
+	"author": "Musaib Mir",
+	"url": "https://github.com/quilledwords/fusion/raw/main/02.jpg",
+	"thumbnail": "https://github.com/quilledwords/fusion-thumbs/raw/main/01.jpg",
+     "collections": "Fonseca",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     },
+{
+     "name": "Wallpaper 01",
+	"author": "Musaib Mir",
+	"url": "https://github.com/quilledwords/fusion/raw/main/01.jpg",
+	"thumbnail": "https://github.com/quilledwords/fusion-thumbs/raw/main/01.jpg",
+     "collections": "Fonseca",
+	"dimensions": "1440 x 3200 px",
+	"copyright": "Personal Use Only, Credits Required",
+	"downloadable": true
+     }
+]
